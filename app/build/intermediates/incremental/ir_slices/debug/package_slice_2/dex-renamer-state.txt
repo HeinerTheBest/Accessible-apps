@@ -1,0 +1,4 @@
+#Fri Jul 12 23:00:15 EDT 2019
+base.0=C\:\\Users\\heje9\\AndroidStudioProjects\\Mobile Apss Class\\Advanced Android 06.2 accessible apps\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
